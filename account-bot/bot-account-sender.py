@@ -7,12 +7,6 @@ API_TOKEN = '5428836071:AAETpXDfhdzgDBN2sudi-st66MiqlvwRcHI'
     # sostituisci x con id:codice
 bot = telebot.TeleBot(API_TOKEN)
 
-#    ██████╗ ██╗███████╗██████╗ ███████╗██╗   ██╗
-#    ██╔══██╗╔╗   ██╔══╝██╔══██╗██╔════╝██║   ██║
-#    ██████╔╝██╗  ██║   ██║  ██║█████╗  ██║   ██║
-#    ██╔══╝  ██║  ██║   ██║  ██║██╔══╝  ██║  ██╔╝
-#    ██║     ██║  ██║   ██████╔╝███████╗ ╚████╔╝
-#    ╚═╝     ╚═╝  ╚═╝   ╚═════╝ ╚══════╝  ╚═══╝
 
                             ### sezione pre
 
@@ -217,14 +211,6 @@ def spotify_id(message):
 
 if __name__ == '__main__':
      bot.infinity_polling(timeout=20, long_polling_timeout = 10)
-
-
-#    ██████╗ ██╗███████╗██████╗ ███████╗██╗   ██╗
-#    ██╔══██╗╔╗   ██╔══╝██╔══██╗██╔════╝██║   ██║
-#    ██████╔╝██╗  ██║   ██║  ██║█████╗  ██║   ██║
-#    ██╔══╝  ██║  ██║   ██║  ██║██╔══╝  ██║  ██╔╝
-#    ██║     ██║  ██║   ██████╔╝███████╗ ╚████╔╝
-#    ╚═╝     ╚═╝  ╚═╝   ╚═════╝ ╚══════╝  ╚═══╝
 
 # BOT CREATO DA @P1etr0_p3rfetto SOLO ED ESCLUSIVAMENTE PER @SusySeLLer
     # @SusySeLLer NON È AUTORIZZATO ALLA VENDITA DI QUESTO BOT

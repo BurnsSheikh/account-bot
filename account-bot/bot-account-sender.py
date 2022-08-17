@@ -16,7 +16,7 @@ bot = telebot.TeleBot(API_TOKEN)
 
                             ### sezione pre
 
-groupchat = -796129893
+groupchat = -1001188404328
 
 canalesave =  -1001783207797
 
